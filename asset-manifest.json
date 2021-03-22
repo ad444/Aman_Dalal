@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Aman_Dalal/static/css/main.14f0efe3.chunk.css",
-    "main.js": "/Aman_Dalal/static/js/main.10a211ae.chunk.js",
-    "main.js.map": "/Aman_Dalal/static/js/main.10a211ae.chunk.js.map",
+    "main.js": "/Aman_Dalal/static/js/main.ba8ed35c.chunk.js",
+    "main.js.map": "/Aman_Dalal/static/js/main.ba8ed35c.chunk.js.map",
     "runtime-main.js": "/Aman_Dalal/static/js/runtime-main.f9d5f804.js",
     "runtime-main.js.map": "/Aman_Dalal/static/js/runtime-main.f9d5f804.js.map",
     "static/css/2.02e44973.chunk.css": "/Aman_Dalal/static/css/2.02e44973.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.02e44973.chunk.css",
     "static/js/2.86e75a86.chunk.js",
     "static/css/main.14f0efe3.chunk.css",
-    "static/js/main.10a211ae.chunk.js"
+    "static/js/main.ba8ed35c.chunk.js"
   ]
 }
