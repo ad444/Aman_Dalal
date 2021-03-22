@@ -2,6 +2,7 @@ import React from "react";
 import Calculator_Image  from "./images/calculator.png";
 import Stopwatch_Image  from "./images/stopwatch.png";
 import MoreProjects_Image from "./images/Working On New Projects.png";
+import "../node_modules/bootstrap/js/dist/carousel.js";
 
 const Projects = ({backgroundcolor, txtColor}) =>{
     return(
