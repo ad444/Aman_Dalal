@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Aman_Dalal/static/css/main.14f0efe3.chunk.css",
+    "main.js": "/Aman_Dalal/static/js/main.10a211ae.chunk.js",
+    "main.js.map": "/Aman_Dalal/static/js/main.10a211ae.chunk.js.map",
+    "runtime-main.js": "/Aman_Dalal/static/js/runtime-main.f9d5f804.js",
+    "runtime-main.js.map": "/Aman_Dalal/static/js/runtime-main.f9d5f804.js.map",
+    "static/css/2.02e44973.chunk.css": "/Aman_Dalal/static/css/2.02e44973.chunk.css",
+    "static/js/2.86e75a86.chunk.js": "/Aman_Dalal/static/js/2.86e75a86.chunk.js",
+    "static/js/2.86e75a86.chunk.js.map": "/Aman_Dalal/static/js/2.86e75a86.chunk.js.map",
+    "index.html": "/Aman_Dalal/index.html",
+    "static/css/2.02e44973.chunk.css.map": "/Aman_Dalal/static/css/2.02e44973.chunk.css.map",
+    "static/css/main.14f0efe3.chunk.css.map": "/Aman_Dalal/static/css/main.14f0efe3.chunk.css.map",
+    "static/js/2.86e75a86.chunk.js.LICENSE.txt": "/Aman_Dalal/static/js/2.86e75a86.chunk.js.LICENSE.txt",
+    "static/media/Working On New Projects.ae750ad5.png": "/Aman_Dalal/static/media/Working On New Projects.ae750ad5.png",
+    "static/media/calculator.8115f3ef.png": "/Aman_Dalal/static/media/calculator.8115f3ef.png",
+    "static/media/photo.f571f8d2.jpg": "/Aman_Dalal/static/media/photo.f571f8d2.jpg",
+    "static/media/stopwatch.659051f9.png": "/Aman_Dalal/static/media/stopwatch.659051f9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9d5f804.js",
+    "static/css/2.02e44973.chunk.css",
+    "static/js/2.86e75a86.chunk.js",
+    "static/css/main.14f0efe3.chunk.css",
+    "static/js/main.10a211ae.chunk.js"
+  ]
+}
