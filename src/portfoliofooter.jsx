@@ -6,7 +6,7 @@ const Footer = ({backgroundcolor, txtColor})=>{
            <div id="footer" className="container-fluid" style={{backgroundColor:backgroundcolor, color:txtColor}}>
               <div id="footercontent" className="row">
                   <div className="col-12 text-center">
-                      <p id="footerText">All the &#169;2021 copyrights are reserved for this website.</p>
+                      <p id="footerText">All the &#169; 2021 copyrights are reserved for this website.</p>
                   </div>
               </div>
            </div>
