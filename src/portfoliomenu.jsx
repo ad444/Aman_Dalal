@@ -1,6 +1,8 @@
 import React from "react";
 import {useState} from "react";
 import Tooltip from '@material-ui/core/Tooltip';
+import IconButton from '@material-ui/core/IconButton';
+import MenuIcon from '@material-ui/icons/Menu';
 import Home from "./portfoliohome";
 import About from "./portfolioabout";
 import Skill from "./portfolioskill";
@@ -94,15 +96,17 @@ const Menu = ({position, bgColor, txtColor, sbgColor, tbgColor, darkTheme}) =>{
                  </div>
                  <div id="sidemenu" className ="col-4 d-md-none">
                     <div id="innersidemenu" className="row">
-                        <div className="col-7 d-md-none m-auto ">
+                        <div className="col-6 d-md-none m-auto ">
                             <div id="slidercontainer2">
                                 <div id="sidetogglebutton" style={{backgroundColor:tbgColor}}>
                                     <div id="slider" onClick={darkTheme} style={{left:position, backgroundColor:sbgColor}}></div>
                                 </div>
                             </div>
                         </div>
-                        <div className="col-5 mx-auto">
-                            <div id="open" onClick={openNav}>&#9776;</div>
+                        <div className="col-6 mx-auto">
+                           <IconButton id="MenuBtnCover" onClick={openNav} aria-label="Menu_Icon">
+                             < MenuIcon id="MenuBtn"/>
+                           </IconButton>
                         </div> 
                      </div>
                    </div>

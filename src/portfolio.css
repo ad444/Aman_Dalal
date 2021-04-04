@@ -57,14 +57,11 @@
     cursor:pointer;
     transition: all 1.5s;
 }
-#open{
+#MenuBtnCover{
     color:cadetblue;
-    cursor:pointer;
-    float: right;
-    position:relative;
-    margin:0px;
-    padding:0px;
-    border-radius: 3px;
+    outline:none;
+    float:right;
+    margin-right:-15px;
 }
 #navigationrow{
     position: relative;
@@ -482,11 +479,11 @@
     #navbrand{
         font-size:22px;
     }
-    #open{
-        font-size: 22px;
+    #MenuBtn{
+        font-size:28px;
     }
     #homecontent{
-        margin-top:70px;
+        margin-top:90px;
     }
     #contactbtn{
         position:relative;
@@ -568,11 +565,11 @@
     #navbrand{
         font-size:26px;
     }
-    #open{
-        font-size:27px;
+    #MenuBtn{
+        font-size:32px;
     }
     #homecontent{
-        margin-top:85px;
+        margin-top:105px;
     }
     #homeimagegrid{
         display: block;
@@ -665,7 +662,7 @@
         margin-left:5px;
     }
     #homecontent{
-        margin-top:110px;
+        margin-top:120px;
     }
     #border{
         display:block;
@@ -742,11 +739,8 @@
     #menu_links{
         font-size:24px;
     }
-    #open{
-        font-size:28px;
-    }
     #homecontent{
-        margin-top:110px;
+        margin-top:120px;
     }
     #border{
         display:block;
@@ -827,9 +821,6 @@
     #slidercontainer{
         margin:0px;
         margin-right:10px;
-    }
-    #open{
-        font-size:28px;
     }
     #homecontent{
         margin-top:130px;
