@@ -41,10 +41,10 @@ const Projects = ({backgroundcolor, txtColor}) =>{
 
                         {/* //Left and right controls */}
                         <a className="carousel-control-prev" href="#projectscontainer" data-slide="prev">
-                        <span className="carousel-control-prev-icon"></span>
+                         <span className="carousel-control-prev-icon"></span>
                         </a>
                         <a className="carousel-control-next" href="#projectscontainer" data-slide="next">
-                        <span className="carousel-control-next-icon"></span>
+                         <span className="carousel-control-next-icon"></span>
                         </a>
 
                    </div>
