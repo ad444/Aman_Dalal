@@ -1,4 +1,5 @@
 import React from "react";
+import Note_Image  from "./images/notes.png";
 import Calculator_Image  from "./images/calculator.png";
 import Stopwatch_Image  from "./images/stopwatch.png";
 import MoreProjects_Image from "./images/Working On New Projects.png";
@@ -24,6 +25,11 @@ const Projects = ({backgroundcolor, txtColor}) =>{
 
                         {/* Carousel Slide */}
                         <div className="carousel-inner">
+                            <div className="carousel-item active">
+                                <a  className="project_link" href="https://ad444.github.io/notes/" target="_parent" alt="loading error">
+                                <img className="img-fluid" src={Note_Image} alt="Note_Image"/>
+                                </a>
+                            </div>
                             <div className="carousel-item active">
                                 <a  className="project_link" href="https://ad444.github.io/calculator.github.io/" target="_parent" alt="loading error">
                                 <img className="img-fluid" src={Calculator_Image} alt="Calculator_Image"/>

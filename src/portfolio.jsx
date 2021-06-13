@@ -50,7 +50,7 @@ const App = () =>{
             //about and skill component dak theme
             setabouttextColor("whitesmoke");
         } 
-   }
+    }
    
    return (
          <>
